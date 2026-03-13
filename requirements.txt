@@ -1,1 +1,7 @@
-torchtransformerspandasnumpyscikit-learnmatplotlibjupyter
+torch
+transformers
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
